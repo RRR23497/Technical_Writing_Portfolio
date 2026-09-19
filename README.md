@@ -1,7 +1,6 @@
 # Technical Writing Portfolio
 
-Welcome to my technical writing portfolio.
-
+Senior Technical Writer | Enterprise B2B Products | Telecom & Networking | API & Product Documentation | AI-Assisted Authoring | Docs-as-Code
 I am a technical writer with experience creating and maintaining enterprise product documentation in collaboration with Product Management, Engineering, QA, and other cross-functional teams.
 
 ## Areas of expertise
